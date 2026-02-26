@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Archives (assets should be committed individually)
+*.zip
+*.tar.gz
+*.rar
+
+# Editor directories
+.idea/
+.vscode/
+*.sublime-workspace
