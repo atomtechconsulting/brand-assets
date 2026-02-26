@@ -8,35 +8,35 @@ All assets are served via [jsDelivr](https://www.jsdelivr.com/) for free, fast, 
 
 **Base URL:**
 ```
-https://cdn.jsdelivr.net/gh/atomtech/brand-assets@main/
+https://cdn.jsdelivr.net/gh/atomtechconsulting/brand-assets@main/
 ```
 
 **Example URLs:**
 ```
 # Brand logos
-https://cdn.jsdelivr.net/gh/atomtech/brand-assets@main/logos/brands/atomtech/logo.svg
+https://cdn.jsdelivr.net/gh/atomtechconsulting/brand-assets@main/logos/brands/atomtech/logo.svg
 
 # Client logos
-https://cdn.jsdelivr.net/gh/atomtech/brand-assets@main/logos/clients/acme/logo.svg
+https://cdn.jsdelivr.net/gh/atomtechconsulting/brand-assets@main/logos/clients/acme/logo.svg
 
 # Partner logos
-https://cdn.jsdelivr.net/gh/atomtech/brand-assets@main/logos/partners/stripe/logo.svg
+https://cdn.jsdelivr.net/gh/atomtechconsulting/brand-assets@main/logos/partners/stripe/logo.svg
 
 # Tech stack logos
-https://cdn.jsdelivr.net/gh/atomtech/brand-assets@main/logos/tech/nextjs/logo.svg
+https://cdn.jsdelivr.net/gh/atomtechconsulting/brand-assets@main/logos/tech/nextjs/logo.svg
 
 # Social media logos
-https://cdn.jsdelivr.net/gh/atomtech/brand-assets@main/logos/social/github/logo.svg
+https://cdn.jsdelivr.net/gh/atomtechconsulting/brand-assets@main/logos/social/github/logo.svg
 ```
 
 **In HTML:**
 ```html
-<img src="https://cdn.jsdelivr.net/gh/atomtech/brand-assets@main/logos/brands/atomtech/logo.svg" alt="Atomtech" />
+<img src="https://cdn.jsdelivr.net/gh/atomtechconsulting/brand-assets@main/logos/brands/atomtech/logo.svg" alt="Atomtech" />
 ```
 
 **In CSS:**
 ```css
-background-image: url('https://cdn.jsdelivr.net/gh/atomtech/brand-assets@main/logos/brands/atomtech/logo.svg');
+background-image: url('https://cdn.jsdelivr.net/gh/atomtechconsulting/brand-assets@main/logos/brands/atomtech/logo.svg');
 ```
 
 > **Tip:** Use `@main` to always get the latest version, or pin to a specific commit/tag for stability: `@abc1234`
