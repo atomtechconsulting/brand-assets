@@ -3,13 +3,12 @@
   "colors": {
     "primary": "#0C0D0E",
     "secondary": "#7C7C83",
-    "accent": "#4567ED",
-    "blue": "#4567ED",
-    "lila": "#7C87F7",
-    "deepblue": "#171EE8",
-    "purple": "#7B3DFF",
-    "cyan": "#24C1CC",
-    "green": "#24CC83",
+    "accent": "#1B2A4A",
+    "navy": "#1B2A4A",
+    "navy-light": "#2A3F6B",
+    "sand": "#BF8150",
+    "sand-light": "#D4A574",
+    "sage": "#9AB973",
     "dark-grey": "#4A4A4F",
     "grey": "#7C7C83",
     "text-grey": "#C7C7C7",
@@ -19,10 +18,10 @@
     "glass": "rgba(212, 212, 212, 0.06)"
   },
   "gradients": {
-    "gradient-corp": "linear-gradient(106deg, #4567ED 2.4%, #7C87F7 25%, #6AA4F0 48.56%, #24C1CC 75%, #24CC83 100%)",
-    "gradient-blue-lila": "linear-gradient(135deg, #7C87F7 0%, #4567ED 100%)",
-    "gradient-blue-cyan": "linear-gradient(132deg, #24C1CC -4.81%, #4567ED 97.75%)",
-    "gradient-green": "linear-gradient(98deg, #24CC83 3.37%, #24C1CC 100%)"
+    "gradient-corp": "linear-gradient(135deg, #BF8150 0%, #D4A574 50%, #9AB973 100%)",
+    "gradient-navy": "linear-gradient(135deg, #2A3F6B 0%, #1B2A4A 100%)",
+    "gradient-sand-navy": "linear-gradient(132deg, #BF8150 0%, #1B2A4A 100%)",
+    "gradient-sage-sand": "linear-gradient(98deg, #9AB973 0%, #BF8150 100%)"
   },
   "fonts": {
     "family": "Inter",
