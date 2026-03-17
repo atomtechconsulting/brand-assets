@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "colors": {
+    "primary": "#0C0D0E",
+    "secondary": "#7C7C83",
+    "accent": "#1B2A4A",
+    "navy": "#1B2A4A",
+    "navy-light": "#2A3F6B",
+    "sand": "#BF8150",
+    "sand-light": "#D4A574",
+    "sage": "#9AB973",
+    "dark-grey": "#4A4A4F",
+    "grey": "#7C7C83",
+    "text-grey": "#C7C7C7",
+    "light-grey": "#E5E5E6",
+    "white-grey": "#EDEDED",
+    "white": "#F5F5F5",
+    "glass": "rgba(212, 212, 212, 0.06)"
+  },
+  "gradients": {
+    "gradient-corp": "linear-gradient(135deg, #BF8150 0%, #D4A574 50%, #9AB973 100%)",
+    "gradient-navy": "linear-gradient(135deg, #2A3F6B 0%, #1B2A4A 100%)",
+    "gradient-sand-navy": "linear-gradient(132deg, #BF8150 0%, #1B2A4A 100%)",
+    "gradient-sage-sand": "linear-gradient(98deg, #9AB973 0%, #BF8150 100%)"
+  },
+  "fonts": {
+    "family": "Inter",
+    "fallback": "system-ui, -apple-system, sans-serif",
+    "weights": {
+      "light": 300,
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600
+    },
+    "defaults": {
+      "body": 300,
+      "heading": 500
+    }
+  }
+}
